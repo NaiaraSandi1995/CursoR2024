@@ -2,7 +2,7 @@
 
 ### Ministrado por: **Dra. Naiara Sandi de Almeida Alcantara**  
 **Datas:** 04 a 06 de novembro de 2024  
-**Horário:** 14h - 17h  
+**Horário:** 14h - 18h  
 **Carga horária:** 12h  
 **Local:** LABEST (Laboratório Computacional de Estatística) - ICEN, 1º andar  
 👉 [Link do Repositório GitHub](https://github.com/NaiaraSandi1995/CursoR2024)  
@@ -50,4 +50,4 @@ Todos os materiais são gratuitos e serão disponibilizados antes ou durante as 
 ---
 
 🎉 **Vamos aprender e explorar o poder do R juntos!** 🎉  
-📩 Dúvidas? Entre em contato durante o curso!  
+📩 Dúvidas? Entre em contato pelo e-mail nayarasandy@ufpa.br
